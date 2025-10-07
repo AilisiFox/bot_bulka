@@ -163,8 +163,8 @@ MIT License - см. файл LICENSE для деталей.
 
 
 ##### Авторы: Development Team 
-[Пузанова Алиса](https://github.com/AilisiFox) 
-[Роман](https://github.com/BulkaInside)
+* [Пузанова Алиса](https://github.com/AilisiFox) 
+* [Роман](https://github.com/BulkaInside)
 
 ##### Версия: 1.0
 ##### Дата: Октябрь 2025
